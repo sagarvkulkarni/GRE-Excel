@@ -1,0 +1,609 @@
+		
+body {background:#000;
+      margin:0;
+	  scrollbar-3dlight-color:#222;
+      scrollbar-arrow-color:#FFF;
+      scrollbar-base-color:#000;
+      scrollbar-darkshadow-color:#222;
+      scrollbar-face-color:#000;
+      scrollbar-highlight-color:#000;
+      scrollbar-shadow-color:#000}
+	  
+#outer        				 
+	{position: absolute;
+	 top: 57%;
+	 left: -69px;
+	 width: 100%;
+	 height: 1px;
+	margin-bottom: 0px;
+}
+
+#inner    
+	{margin-left: -250px;
+	 position: absolute;
+	 top: -125px;
+	 left: 485px;
+	 width: 784px;
+	 height: 307px;
+	margin-bottom: 12px;
+}
+	 
+#inner1    
+	{margin-left: -250px;
+	 position: absolute;
+	 top: -234px;
+	 left: 355px;
+	 width: 900px;
+	 height: 450px;
+	margin-bottom: 12px;
+}	 
+#inner5    
+	{margin-left: -250px;
+	 position: absolute;
+	 top: -306px;
+	 left: 355px;
+	 width: 900px;
+	 height: 509px;
+	margin-bottom: 12px;
+}	 
+
+
+.bgtext 					
+		{font-size: 150px;
+		 position:absolute;
+		 top:-178px;
+		 left:-104px;
+		 right:-101px
+}
+
+.bgtext, .footertext 
+		{color:#222;
+		 font-family:verdana, helvetica, sans serif;
+	bottom: 304px;
+	width: 989px;
+}
+		 
+.footertext {font-size:12px;
+			 position:absolute;
+			 top:320px;
+			 text-align:center;
+			 width:500px;}
+
+
+
+div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7, div#text8, div#text9, div#text10, div#text11, div#text12, div#text13, div#text14, div#text15, div#text16, div#text17, div#text18, div#text19, div#text20, div#text21, div#text22, div#text23, div#text24, div#text25, div#text26, div#text27, div#text28, div#text29, div#text30, div#text31, div#text32, div#text33, div#text34, div#text25, div#text36, div#text37, div#text38, div#text39, div#text40
+         {color:#222222;
+		  font-family:verdana, helvetica, sans serif;
+		  position:absolute;}
+
+div#text1 {font-size:20px;
+		top:327px;
+		left:-121px;
+	height: 27px;
+}
+				  
+div#text2 {font-size:45px;
+		top:196px;
+		left:-118px;}
+		
+div#text3 {font-size:45px;
+		top:182px;
+		left:212px;}
+		
+div#text4 {font-size:45px;
+		top:172px;
+		left:526px;
+	width: 229px;
+}
+			
+div#text5 {font-size:45px;
+		top:171px;
+		left:-126px;
+}
+		
+div#text6 {font-size:45px;
+		top:167px;
+		left:185px;
+}
+		
+div#text7 {font-size:20px;
+		top:322px;
+		left:667px;
+	height: 36px;
+}
+		
+ div#text8 {font-size:30px;
+		top:-133px;
+		left:56px;
+	width: 497px;
+}
+				
+ div#text9 {font-size:30px;
+		top:-37px;
+		left:2px;
+	height: 36px;
+}		
+
+div#text10 {font-size:30px;
+		top:-36px;
+		left:193px;
+	width: 64px;
+}
+		
+div#text11 {font-size:30px;
+		top:-34px;
+		left:409px;
+	width: 56px;
+}
+
+div#text12 {font-size:30px;
+		top:100px;
+		left:90px;
+	height: 33px;
+}
+
+div#text13 {font-size:30px;
+		top:98px;
+		left:195px;
+	height: 36px;
+	width: 61px;
+}
+		
+div#text14 {font-size:30px;
+		top:97px;
+		left:410px;
+}		
+					
+ div#text15 {font-size:30px;
+		top:215px;
+		left:94px;
+} 
+
+div#text16 {font-size:15px;
+		top:-175px;
+		left:725px;}
+		
+div#text17 {font-size:15px;
+		top:-174px;
+		left:-155px;
+	bottom: 528px;
+	height: 9px;
+} 
+
+div#text18 {font-size:15px;
+		top:-176px;
+		left:196px;
+	bottom: 458px;
+	width: 298px;
+} 
+div#text19 {font-size:25px;
+		top:63px;
+		left:228px;
+}
+
+div#text20 {font-size:30px;
+		top:-37px;
+		left:91px;
+	height: 36px;
+}
+div#text21 {font-size:30px;
+		top:-35px;
+		left:293px;
+	height: 29px;
+	width: 72px;
+	right: 335px;
+}
+div#text22 {font-size:30px;
+		top:99px;
+		left:3px;
+	height: 36px;
+}
+div#text23 {font-size:30px;
+		top:98px;
+		left:293px;
+	height: 36px;
+	width: 70px;
+}
+div#text24 {font-size:30px;
+		top:220px;
+		left:192px;
+	height: 36px;
+}
+
+div#text25 {font-size:30px;
+		top:220px;
+		left:301px;
+	height: 36px;
+}
+div#text26 {font-size:30px;
+		top:119px;
+		left:397px;
+	height: 36px;
+}
+div#text27 {font-size:30px;
+		top:325px;
+		left:316px;
+	height: 36px;
+}
+div#text28 {font-size:40px;
+		top:9px;
+		left:329px;
+	height: 27px;
+}
+div#text29 {font-size:15px;
+		top:-56px;
+		left:-21px;
+	height: 18px;
+	right: 876px;
+}
+div#text30 {font-size:15px;
+		top:-62px;
+		left:873px;
+	height: 20px;
+}
+div#text31 {font-size:30px;
+		top:-35px;
+		left:293px;
+	height: 29px;
+	width: 72px;
+	right: 335px;
+}
+div#text32 {font-size:30px;
+		top:99px;
+		left:3px;
+	height: 36px;
+}
+div#text33 {font-size:30px;
+		top:98px;
+		left:293px;
+	height: 36px;
+	width: 70px;
+}
+div#text34 {font-size:30px;
+		top:220px;
+		left:192px;
+	height: 36px;
+}
+
+div#text35 {font-size:30px;
+		top:220px;
+		left:301px;
+	height: 36px;
+	width: 258px;
+	margin-top: 200px;
+}
+div#text36 {font-size:30px;
+		top:119px;
+		left:397px;
+	height: 36px;
+}
+div#text37 {font-size:30px;
+		top:325px;
+		left:316px;
+	height: 36px;
+}
+div#text38 {font-size:40px;
+		top:9px;
+		left:329px;
+	height: 27px;
+}
+div#text39 {font-size:15px;
+		top:-56px;
+		left:-21px;
+	height: 8px;
+	right: 876px;
+}
+div#text40 {font-size:15px;
+		top:-62px;
+		left:873px;
+	height: 20px;
+}
+ div#text1 a:hover span {top: -3px; 
+						left: 0px; 
+						width:}
+
+ div#text2 a:hover span {top: -10px; 
+						left: 0px; 
+						width:}
+						
+ div#text3 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+
+ div#text4 a:hover span {top: -6px; 
+						left: 0px; 
+						width:}
+		
+ div#text5 a:hover span {top: -6px; 
+						left: 0px; 
+						width:}
+						
+ div#text6 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text7 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text8 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+												
+ div#text9 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}						
+						
+ div#text10 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}						
+						
+ div#text11 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}						
+						
+ div#text12 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}						
+						
+ div#text13 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}						
+						
+ div#text14 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}						
+						
+ div#text15 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}								
+								   
+  div#text16 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+
+ div#text17 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+
+div#text18 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+div#text19 a:hover span {top: -6px; 
+						left: 0px; 
+						width:}						
+						
+ div#text20 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+  
+ div#text21 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}												
+
+ div#text22 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text23 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text24 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text25 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text26 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text27 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text28 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text29 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text30 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+div#text31 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}												
+
+ div#text32 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text33 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text34 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text35 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text36 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text37 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+						
+ div#text38 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text39 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}	
+						
+ div#text40 a:hover span {top: -4px; 
+						left: 0px; 
+						width:}
+																																											
+div#inner a:hover, div#inner2 a:hover
+				  {background: none;
+				   cursor:crosshair;}
+
+div#inner a span {display: none;}
+
+div#inner a:visited span {display:none;}
+
+div#inner a {text-decoration: none;
+			 color:white;}
+
+div#inner a:hover span {display: block;
+						position:relative;
+						background:none;
+						font-size:14px}
+						
+div#inner a:link, div#inner a:visited {text-decoration:none;}
+
+div#inner a:hover {text-decoration:none}
+div#inner1 a:hover, div#inner2 a:hover
+				  {background: none;
+				   cursor:crosshair;}
+
+div#inner1 a span {display: none;}
+
+div#inner1 a:visited span {display:none;}
+
+div#inner1 a {text-decoration: none;
+			 color:white;}
+
+div#inner1 a:hover span {display: block;
+						position:relative;
+						background:none;
+						font-size:14px}
+						
+div#inner1 a:link, div#inner1 a:visited {text-decoration:none;}
+
+div#inner1 a:hover {text-decoration:none}
+div#inner5 a:hover, div#inner2 a:hover
+				  {background: none;
+				   cursor:crosshair;}
+
+div#inner5 a span {display: none;}
+
+div#inner5 a:visited span {display:none;}
+
+div#inner5 a {text-decoration: none;
+			 color:white;}
+
+div#inner5 a:hover span {display: block;
+						position:relative;
+						background:none;
+						font-size:14px}
+						
+div#inner5 a:link, div#inner5 a:visited {text-decoration:none;}
+
+div#inner5 a:hover {text-decoration:none}
+
+div#content {position:absolute;
+			 top:6px;
+			 left:-122px;
+			 width:896px;
+			 height: 546px;
+			 overflow: auto;
+			 font-family: verdana, helvetica, sans serif;
+			 font-size: 20px;
+			 color:white;
+			 text-align:justify;
+			 margin:3px;
+}
+
+div#inner div#content a:hover {text-decoration:underline;}
+
+div#inner1 div#content a:hover {text-decoration:underline;}			 
+
+
+div#close, div#top 
+          {width:17px;
+		   height:17px;
+		   background:none;
+		   text-align:center;
+		   font-family:verdana, helvetica, sans serif;
+		   font-weight:bold;
+		   font-size:12px;
+		   border: 1px solid #222}
+   
+div#top {position:relative;
+		   left:573px;
+		   top:319px}
+
+div#close {position:relative;
+		   left:573px;
+		   top:-47px;}
+		   
+div#inner div#close a:link, div#inner div#top a:link {color:Orange; cursor:default;}
+div#inner div#close a:visited, div#inner div#top a:visited {color:#fff; cursor:default;}
+div#inner div#close a:hover, div#inner div#top a:hover {color:#fff; cursor:default;}
+
+div#inner1 div#close a:link, div#inner1 div#top a:link {color:Orange; cursor:default;}
+div#inner1 div#close a:visited, div#inner1 div#top a:visited {color:#fff; cursor:default;}
+div#inner1 div#close a:hover, div#inner1 div#top a:hover {color:#fff; cursor:default;}
+
+
+div#urltext {
+	font-family:verdana, helvetica, sans serif;
+	font-size:20px;
+	position:absolute;
+	top:-81px;
+	left:-132px;
+	width: 230px;
+	height: 35px;
+} 
+
+
+
+div#urltext, div#inner div#content a:link, div#inner div#content a:visited, div#inner a:hover, div#inner a:hover span
+   			 {color:#ff7c11}
+
+
+div#urltext, div#inner1 div#content a:link, div#inner1 div#content a:visited, div#inner1 a:hover, div#inner1 a:hover span
+   			 {color:#ff7c11}
+   			 			 
+div#content div#titlebar {border: 1px solid #222222;
+				background: #000;
+				font-weight: normal;
+				color:  #ff7c11;}
+				
+div#content {margin-left:0;
+			padding-right:8px;}
+			 
+			 
+			 
+.titleblock {font-family:verdana, helvetica, sans serif;
+				font-size:15px;
+				color:#ff7c11;
+				font-weight:;
+				margin-right:6px;
+				margin-top:10px;
+				margin-bottom:10px;
+				margin-left:2px;
+				border:1px solid #222;
+				padding:4px}
+				
+.titleblock span {color:#ff7c11}
+
+#urltext a:link {color:Orange}
+#urltext a:visited {color:Orange}
+#urltext a:hover {color:Orange}
+#urltext a:active {color: Orange}
